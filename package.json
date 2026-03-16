@@ -1,5 +1,5 @@
 {
-  "name": "sistemas-consultas-mobile",
+  "name": "sistema-consultas-mobile",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~55.0.5",
+    "expo": "~55.0.6",
     "expo-status-bar": "~55.0.4",
     "react": "19.2.0",
     "react-dom": "19.2.0",
